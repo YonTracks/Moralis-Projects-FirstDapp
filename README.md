@@ -4,4 +4,4 @@
 <br/>
 <br/>
 <br/>
-<img src=".//img/firstDapp2.png">
+<img src=".//img/FirstDapp2.png">
