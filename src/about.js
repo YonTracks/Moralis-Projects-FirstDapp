@@ -21,18 +21,18 @@ export const abouts = [
     token: "SHIB",
     address: "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     about:
-      "",
+      "Once upon a time, there was a very special dog. That dog was a Shiba Inu, and this dog inspired millions of people around the world to invest money into tokens with the dog's image on it, According to the SHIBA INU website, SHIB is the DOGECOIN KILLER and is listed on their own ShibaSwap, a DEX. Shiba Inu coin was created anonymously in August 2020 under the pseudonym Ryoshi. Ryoshi says about himself that he is a nobody and not important and that the efforts to unmask his identity, even if successful, would be underwhelming, This meme coin quickly gained speed and value as a community of investors was drawn in by the cute charm of the coin paired with headlines and tweets from personalities like Elon Musk and Vitalik Buterin. Vitalik Buterin was long believed to be the originator of Shiba Inu, but denied such rumors on the Lex Fridman podcast on June 5, 2021. Info from COIN MARKET CAP"
   },
   {
     token: "MATIC",
     address: "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
     about:
-      "",
+      "Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications. Polygon effectively transforms Ethereum into a full-fledged multi-chain system (aka Internet of Blockchains). This multi-chain system is akin to other ones such as Polkadot, Cosmos, Avalanche etc. with the advantages of Ethereum’s security, vibrant ecosystem and openness. The $MATIC token will continue to exist and will play an increasingly important role, securing the system and enabling governance. Info from COIN MARKET CAP",
   },
   {
     token: "SOLA",
     address: "FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF",
     about:
-      "Founded in ",
+      "SOLA offers a fresh and unique perspective on the Solana Ecosystem's Decentralized Exchanges. SOLA's fast development has piqued the interest of both retail customers and industry specialists. Experienced professionals who have led large initiatives in Fintech, NFTs, and crypto-related marketing have joined the core team. ",
   },
 ];
