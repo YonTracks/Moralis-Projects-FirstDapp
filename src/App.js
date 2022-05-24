@@ -99,7 +99,7 @@ const App = () => {
        <ConnectButton />
      </div>
      <div className="instructions">
-       What do you think? Are these tokens are heading Up or Down?
+       What do you think, are these tokens heading Up or Down?
      </div>
      <div className="list">
        <Coin
